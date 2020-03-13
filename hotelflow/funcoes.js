@@ -121,7 +121,7 @@ function atualizar(){
 			
 			mostrar_cadastrados();
 			
-			alert("cidade atualizada com successo");
+			alert("Cidade atualizada com successo");
 			
 			return false;
 		}
